@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(178, 87, 87);
+    color: white;
+    padding: 20px;
+}
+button{
+    color: aqua;
+    size: adjust 12px;
+    background-color: rgb(10, 30, 60);
+    text-wrap-style: times;
+}
+button{
+    text-align: center;
+}
